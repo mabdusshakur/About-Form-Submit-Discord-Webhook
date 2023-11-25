@@ -45,7 +45,7 @@ namespace About_Form_Submit_Discord_Webhook
 
         private void submit_btn_Click(object sender, EventArgs e)
         {
-            string url = "https://discord.com/api/webhooks/1177846825206677534/CxUTnguTz0zROQoc9IH17Q2iC7g7qKIGhQHt_5NXFKgHgDbhA_uZYJHntCK2JmFc77Zx";
+            string url = "";
             string Name = name_tb.Text;
             string email = email_tb.Text;
             string Phoen = phone_tb.Text;
